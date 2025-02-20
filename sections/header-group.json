@@ -17,19 +17,12 @@
         "slide_j46kwk": {
           "type": "slide",
           "settings": {
-            "announcement": "Announce something important here"
-          }
-        },
-        "slide_mwF4Tk": {
-          "type": "slide",
-          "settings": {
-            "announcement": "Free Shipping For All Orders Over $100"
+            "announcement": "LIMITED STOCK AVAILABLE"
           }
         }
       },
       "block_order": [
-        "slide_j46kwk",
-        "slide_mwF4Tk"
+        "slide_j46kwk"
       ],
       "settings": {
         "bg_color": "bg-primary",
