@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "Header Group",
@@ -49,24 +58,24 @@
           "type": "mobile",
           "settings": {
             "container_max_width": "",
-            "logo": "shopify:\/\/shop_images\/ks-bootshop-logo.png",
-            "logo_height": 30,
-            "main_menu": "dropdown-menu",
+            "logo": "shopify://shop_images/Untitled_design_10.png",
+            "logo_height": 100,
+            "main_menu": "",
             "collections_menu": "",
             "social_icons": true,
-            "pt": 2,
-            "pb": 2
+            "pt": 0,
+            "pb": 0
           }
         },
         "069e870e-aed4-4929-bf73-c0daca8be18e": {
           "type": "desktop",
           "settings": {
             "container_max_width": "",
-            "logo": "shopify:\/\/shop_images\/ks-bootshop-logo.png",
-            "logo_height": 32,
-            "main_menu": "dropdown-menu",
-            "pt": 5,
-            "pb": 5
+            "logo": "shopify://shop_images/Untitled_design_10.png",
+            "logo_height": 100,
+            "main_menu": "",
+            "pt": 0,
+            "pb": 0
           }
         }
       },
